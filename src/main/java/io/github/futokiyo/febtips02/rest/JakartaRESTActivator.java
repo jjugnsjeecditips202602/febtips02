@@ -1,8 +1,6 @@
 /*
- * Copyright The WildFly Authors
- * SPDX-License-Identifier: Apache-2.0
  */
-package io.github.futokiyo.febtips04.rest;
+package io.github.futokiyo.febtips02.rest;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
